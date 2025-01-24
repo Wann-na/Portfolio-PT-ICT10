@@ -144,7 +144,6 @@
   /*---------------------services--------------------*/
   #services{
     padding: 30px 0;
-    background-color: grey;
   }
   .services-list{
     display: grid;
@@ -177,7 +176,7 @@
     display: inline-block;
   }
   .services-list div:hover{
-    background: red;
+    background: #8a2be2;
     transform: translateY(-10px);
   }
   /*---------------------portfolio--------------------*/
